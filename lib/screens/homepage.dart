@@ -419,6 +419,7 @@ class _HomePageState extends State<HomePage> {
 
           if (isTrain) ...[
             Positioned.fill(
+              // ignore: deprecated_member_use
               child: Container(color: Colors.black.withOpacity(0.6)),
             ),
             Positioned.fill(
