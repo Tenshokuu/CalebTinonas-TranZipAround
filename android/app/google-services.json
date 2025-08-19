@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457285223988",
+    "project_id": "tranziparound",
+    "storage_bucket": "tranziparound.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457285223988:android:1cb899d93840e53e5a2c61",
+        "android_client_info": {
+          "package_name": "com.example.tranziparound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBdchwtOEW0odOpRlUIXvHZKHTehBbZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
