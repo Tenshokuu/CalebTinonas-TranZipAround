@@ -1,0 +1,71 @@
+{
+  "favmrts": {
+    "favmrts": {
+      "XJUGidEF8MoKGN6eRGwi": {
+        "Description": "HarbourFront",
+        "StationCode": "CC29",
+        "userID": "xG3P2TPheDZ7a5YBuisDjKJ6bjB3"
+      },
+      "eNVe1j296sLMf4p3cVNb": {
+        "Description": "Yio Chu Kang",
+        "StationCode": "NS15",
+        "userID": "xG3P2TPheDZ7a5YBuisDjKJ6bjB3"
+      },
+      "nqCHvDQ02ycpjlHEYyU2": {
+        "Description": "HarbourFront",
+        "StationCode": "NE1",
+        "userID": "xG3P2TPheDZ7a5YBuisDjKJ6bjB3"
+      },
+      "sT70FEDzA4yMEGjMG3AR": {
+        "Description": "Ang Mo Kio",
+        "StationCode": "NS16",
+        "userID": "xG3P2TPheDZ7a5YBuisDjKJ6bjB3"
+      }
+    }
+  },
+  "favourites": {
+    "favourites": {
+      "le2RdiJp0FOlqVXoBoJB": {
+        "BusStopCode": "66051",
+        "UserID": "xG3P2TPheDZ7a5YBuisDjKJ6bjB3",
+        "BusStopName": "Opp Blk 257",
+        "Description": "Testing Desc",
+        "FavName": "Opposite Bus Stop"
+      }
+    }
+  },
+  "ownroutes": {
+    "ownroutes": {
+      "c3nhgWljDZhNGgJR0a1z": {
+        "stops": [
+          "54351",
+          "55321",
+          "55329"
+        ],
+        "userID": "xG3P2TPheDZ7a5YBuisDjKJ6bjB3",
+        "routename": "Test",
+        "Description": "Descriptionn"
+      },
+      "dSgLkTLvF8SEQ3zOmtTT": {
+        "Description": "",
+        "stops": [
+          "54351",
+          "31019",
+          "31011"
+        ],
+        "userID": "xG3P2TPheDZ7a5YBuisDjKJ6bjB3",
+        "routename": "Route"
+      },
+      "zbn3qAYXBma45XJ0ytej": {
+        "Description": "",
+        "stops": [
+          "66059",
+          "54311",
+          "66099"
+        ],
+        "userID": "xG3P2TPheDZ7a5YBuisDjKJ6bjB3",
+        "routename": "Test Pt2"
+      }
+    }
+  }
+}
